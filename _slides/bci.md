@@ -7,4 +7,5 @@ slides:
   - bci1
   - bci2
   - bci3
+  - ibm2471
 ---
